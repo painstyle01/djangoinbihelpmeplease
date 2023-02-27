@@ -1,0 +1,1 @@
+web: gunicorn djangoinbi.wsgi –log-file -
